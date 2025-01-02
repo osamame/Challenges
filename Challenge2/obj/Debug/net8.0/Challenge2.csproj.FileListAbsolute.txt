@@ -1,0 +1,14 @@
+C:\Development\Challenges\Challenge2\obj\Debug\net8.0\Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Challenges\Challenge2\obj\Debug\net8.0\Challenge2.AssemblyInfoInputs.cache
+C:\Development\Challenges\Challenge2\obj\Debug\net8.0\Challenge2.AssemblyInfo.cs
+C:\Development\Challenges\Challenge2\obj\Debug\net8.0\Challenge2.csproj.CoreCompileInputs.cache
+C:\Development\Challenges\Challenge2\bin\Debug\net8.0\Challenge2.exe
+C:\Development\Challenges\Challenge2\bin\Debug\net8.0\Challenge2.deps.json
+C:\Development\Challenges\Challenge2\bin\Debug\net8.0\Challenge2.runtimeconfig.json
+C:\Development\Challenges\Challenge2\bin\Debug\net8.0\Challenge2.dll
+C:\Development\Challenges\Challenge2\bin\Debug\net8.0\Challenge2.pdb
+C:\Development\Challenges\Challenge2\obj\Debug\net8.0\Challenge2.dll
+C:\Development\Challenges\Challenge2\obj\Debug\net8.0\refint\Challenge2.dll
+C:\Development\Challenges\Challenge2\obj\Debug\net8.0\Challenge2.pdb
+C:\Development\Challenges\Challenge2\obj\Debug\net8.0\Challenge2.genruntimeconfig.cache
+C:\Development\Challenges\Challenge2\obj\Debug\net8.0\ref\Challenge2.dll

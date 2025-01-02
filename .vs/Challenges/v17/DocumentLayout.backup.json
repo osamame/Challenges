@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Challenges\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57260A94-009C-48E8-8C8A-C7CE26DB33D8}|Challenge2\\Challenge2.csproj|c:\\development\\challenges\\challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57260A94-009C-48E8-8C8A-C7CE26DB33D8}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57260A94-009C-48E8-8C8A-C7CE26DB33D8}|Challenge2\\Challenge2.csproj|c:\\development\\challenges\\challenge2\\duplicateidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57260A94-009C-48E8-8C8A-C7CE26DB33D8}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\duplicateidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DuplicateIdentifier.cs",
+              "DocumentMoniker": "C:\\Development\\Challenges\\Challenge2\\DuplicateIdentifier.cs",
+              "RelativeDocumentMoniker": "Challenge2\\DuplicateIdentifier.cs",
+              "ToolTip": "C:\\Development\\Challenges\\Challenge2\\DuplicateIdentifier.cs",
+              "RelativeToolTip": "Challenge2\\DuplicateIdentifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:43:58.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\Challenges\\Challenge2\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge2\\Program.cs",
+              "ToolTip": "C:\\Development\\Challenges\\Challenge2\\Program.cs",
+              "RelativeToolTip": "Challenge2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:30:49.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
